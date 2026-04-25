@@ -1,0 +1,4 @@
+projects:
+  default: 859234
+image:
+  build: .
